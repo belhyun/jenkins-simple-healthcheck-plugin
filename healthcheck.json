@@ -1,0 +1,9 @@
+{
+	"targets": [
+		{
+			"name": "example website 1",
+			"url": "https://infra.yonsei.ac.kr,
+			"check": "HTTP_200"
+		}	
+	]
+}
